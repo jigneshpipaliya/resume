@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+.header{
+  background-color:rgb(6, 31, 63);
+  padding-top: 15px;
+  padding-left: 40px;
+  padding-bottom: 15px;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.mark1{
+  color: rgb(8, 148, 129);
+  font-size: larger;
+}
+.mark2{
+  width: 90%;
+}
+.mark3{
+  background-color: rgb(12, 31, 36);
+  padding-left: 40px;
+  padding-top: 20px;
+  --bs-gutter-x: 0rem;
+}
+.mark4{
+  font-size: 28px;
+}
+.mark5{
+  text-decoration: none;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.mark6{
+  padding-left: 40px;
+  padding-top: 20px;
+  --bs-gutter-x: 0rem;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.mark6 h4{
+  color: rgb(8, 148, 129);
+  text-decoration:underline ;
+  text-decoration-thickness: 4px;
+  font-weight: 700;
+}
+.mark7{
+  color: rgb(8, 148, 129);
+  font-size: small;
+  font-style: italic;
+}
+.mark8{
+  color: blue;
 }
