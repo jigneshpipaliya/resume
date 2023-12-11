@@ -56,7 +56,7 @@ function Heder() {
               <p >Completed the BCA graduation from Sutex bank collage with 2nd class. As part of course we have developed multiple UI application.</p>
             </div>
             <div>
-              <p className='fs-5 fw-bold'>Full Stack Development (02/2023 - 11/2023)</p>
+              <p className='fs-5 fw-bold'>Front-End Developer(02/2023 - 11/2023)</p>
               <p >Completed the Full Stack Development course from creative institute with distinction. As part of course we have developed multiple UI application. </p>
             </div>
             <h4 >PROJECT</h4>
