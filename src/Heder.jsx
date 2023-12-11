@@ -14,7 +14,7 @@ function Heder() {
       <div className=' container'>
         <div className='header'>
           <h2 className=' text-white'>Jignesh pipaliya</h2>
-          <p className='mark1'>Front-End Developer </p>
+          <p className='mark1'>Front-End Developer - React.js </p>
           <p className='mark2 text-white'>A highly motivated and skilled graduate looking for an entry-level position as a software engineer. Solid knowledge in writing well
             designed and testable code. I am well verses with front-end library like react. <br />
             Moreover, I have to make application responsive for different devices. I am currently looking for the opportunity for front- end
@@ -56,7 +56,7 @@ function Heder() {
               <p >Completed the BCA graduation from Sutex bank collage with 2nd class. As part of course we have developed multiple UI application.</p>
             </div>
             <div>
-              <p className='fs-5 fw-bold'>Front-End Developer(02/2023 - 11/2023)</p>
+              <p className='fs-5 fw-bold'>Front-End Developer- React.js(02/2023 - 11/2023)</p>
               <p >Completed the Full Stack Development course from creative institute with distinction. As part of course we have developed multiple UI application. </p>
             </div>
             <h4 >PROJECT</h4>
